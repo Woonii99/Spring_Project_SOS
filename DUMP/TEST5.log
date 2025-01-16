@@ -1,0 +1,58 @@
+;;; 
+Import: Release 21.0.0.0.0 - Production on 화 1월 14 15:11:38 2025
+Version 21.3.0.0.0
+
+Copyright (c) 1982, 2021, Oracle and/or its affiliates.  All rights reserved.
+;;; 
+접속 대상: Oracle Database 21c Express Edition Release 21.0.0.0.0 - Production
+마스터 테이블 "C##SISTUSER"."SYS_IMPORT_FULL_01"이(가) 성공적으로 로드됨/로드 취소됨
+"C##SISTUSER"."SYS_IMPORT_FULL_01" 시작 중: c##sistuser/******** directory=data_pump_test dumpfile=TEST5.dup LOGFILE=TEST5.log 
+객체 유형 SCHEMA_EXPORT/SYSTEM_GRANT 처리 중
+객체 유형 SCHEMA_EXPORT/ROLE_GRANT 처리 중
+객체 유형 SCHEMA_EXPORT/DEFAULT_ROLE 처리 중
+객체 유형 SCHEMA_EXPORT/PRE_SCHEMA/PROCACT_SCHEMA 처리 중
+객체 유형 SCHEMA_EXPORT/SEQUENCE/SEQUENCE 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/TABLE 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/TABLE_DATA 처리 중
+. . "C##SISTUSER"."EDU_BOOK"                    540.8 KB     931행이 임포트됨
+. . "C##SISTUSER"."EDU_LECTURE"                 248.8 KB    4207행이 임포트됨
+. . "C##SISTUSER"."EDU_COURSE"                  127.3 KB    1395행이 임포트됨
+. . "C##SISTUSER"."EDU_TEACHER"                    70 KB     155행이 임포트됨
+. . "C##SISTUSER"."EDU_COURSE_REVIEW"           45.81 KB     145행이 임포트됨
+. . "C##SISTUSER"."EDU_COURSE_NOTICE"           4.087 MB      43행이 임포트됨
+. . "C##SISTUSER"."EDU_COURSE_QNA"              1.591 MB      28행이 임포트됨
+. . "C##SISTUSER"."EDU_USER"                    26.05 KB     107행이 임포트됨
+. . "C##SISTUSER"."EDU_NOTICE"                  24.18 KB       7행이 임포트됨
+. . "C##SISTUSER"."EDU_ORDER"                   23.42 KB      72행이 임포트됨
+. . "C##SISTUSER"."EDU_BOARD"                   6.167 MB      40행이 임포트됨
+. . "C##SISTUSER"."EDU_DELIVERY_INFO"           18.78 KB      72행이 임포트됨
+. . "C##SISTUSER"."EDU_EXAM"                    18.47 KB     163행이 임포트됨
+. . "C##SISTUSER"."EDU_BOARD_COM"               17.71 KB      56행이 임포트됨
+. . "C##SISTUSER"."EDU_ORDER_DETAIL"            17.28 KB      87행이 임포트됨
+. . "C##SISTUSER"."EDU_NOTE"                    12.15 KB      19행이 임포트됨
+. . "C##SISTUSER"."EDU_QNA"                     9.710 KB       3행이 임포트됨
+. . "C##SISTUSER"."EDU_MY_LECTURE"              9.710 KB      43행이 임포트됨
+. . "C##SISTUSER"."EDU_BOARD_RECOM"             9.625 KB     249행이 임포트됨
+. . "C##SISTUSER"."EDU_REFUND"                  8.375 KB      13행이 임포트됨
+. . "C##SISTUSER"."EDU_COURSE_QNA_FILE"         8.328 KB       1행이 임포트됨
+. . "C##SISTUSER"."EDU_ADMIN"                   8.085 KB       2행이 임포트됨
+. . "C##SISTUSER"."EDU_BOARD_FILE"              7.921 KB       2행이 임포트됨
+. . "C##SISTUSER"."EDU_QNA_FILE"                    0 KB       0행이 임포트됨
+. . "C##SISTUSER"."EDU_MY_COURSE"               7.281 KB      48행이 임포트됨
+. . "C##SISTUSER"."EDU_CART"                    6.546 KB       5행이 임포트됨
+. . "C##SISTUSER"."PREVQUE_EASY_HARD"           6.312 KB      11행이 임포트됨
+. . "C##SISTUSER"."EDU_BOARD_BOOKMARK"          5.820 KB      10행이 임포트됨
+. . "C##SISTUSER"."MAIL"                        5.617 KB       4행이 임포트됨
+. . "C##SISTUSER"."EDU_SUBJECT"                 5.562 KB       5행이 임포트됨
+. . "C##SISTUSER"."EDU_BOARD_SAVE"                  0 KB       0행이 임포트됨
+. . "C##SISTUSER"."EDU_NOTICE_FILE"                 0 KB       0행이 임포트됨
+. . "C##SISTUSER"."EDU_PAYMENT"                     0 KB       0행이 임포트됨
+객체 유형 SCHEMA_EXPORT/TABLE/COMMENT 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/CONSTRAINT/CONSTRAINT 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/INDEX/STATISTICS/INDEX_STATISTICS 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/CONSTRAINT/REF_CONSTRAINT 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/TRIGGER 처리 중
+객체 유형 SCHEMA_EXPORT/TABLE/STATISTICS/TABLE_STATISTICS 처리 중
+객체 유형 SCHEMA_EXPORT/STATISTICS/MARKER 처리 중
+"C##SISTUSER"."SYS_IMPORT_FULL_01" 작업이 화 1월 14 15:12:14 2025 elapsed 0 00:00:32에서 성공적으로 완료됨
+
